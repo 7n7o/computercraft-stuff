@@ -1,2 +1,0 @@
-term.clear()
-print("HALLO")

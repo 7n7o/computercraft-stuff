@@ -1,0 +1,5 @@
+local mod = require("mod")
+mod.foo("Bar")
+sleep(1)
+term.clear()
+print("Yup hacking")
